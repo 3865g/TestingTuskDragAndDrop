@@ -1,0 +1,1 @@
+D:\Unity\TestingTask\Playnerea\02_Unity\DragAndDrop\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5e50f2r6\obj\arm64-v8a
